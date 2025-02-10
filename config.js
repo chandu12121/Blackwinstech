@@ -1,4 +1,4 @@
 module.exports = {
-    mongoURI: "mongodb://127.0.0.1:27017/contactsDB",
+    mongoURI: "mongodb+srv://chandu12121:<9182500800>@cluster0.vm2zu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
   };
   
