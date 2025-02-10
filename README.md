@@ -4,7 +4,7 @@ A simple backend API for managing contacts with clean code, API design, and func
 
 ## 🚀 Features
 
-### 🔹 API Endpoints
+### 🔹 API Endpoints 
 
 ✅ **GET** `/contacts` → Fetch all contacts (ID, Name, Email, Phone Number, Address, Created At).  
 ✅ **POST** `/contacts` → Create a new contact with:  
